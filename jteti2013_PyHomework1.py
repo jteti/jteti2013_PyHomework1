@@ -3,7 +3,7 @@ print("Hello World \n")
 
 # 2. Save your age to a variable called "age"
 #declaring age. Must cast numeric to str
-age = '38'
+age = int('38')
 
 # 3. Print "Hello World, I'm (age variable) today."
 print("Hello World, I'm " + age + " today. \n")
